@@ -1,2 +1,3 @@
 # primeirojava_v2
-Um primeiro programa em Java.
+Segunda tentativa
+Um primeiro programa em Java. Com exemplo para orientação a objetos.
